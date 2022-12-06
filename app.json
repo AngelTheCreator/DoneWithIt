@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DoneWithIt",
-    "slug": "DoneWithIt",
+    "slug": "donewithit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e07f3a8d-c70f-405e-9648-cc9b870b4935"
+      }
+    },
+    "owner": "angelthecreator"
   }
 }
